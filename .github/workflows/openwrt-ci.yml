@@ -132,13 +132,6 @@ jobs:
           CONFIG_PACKAGE_kmod-usb2=y
           CONFIG_PACKAGE_kmod-usb2-pci=y
           CONFIG_PACKAGE_kmod-usb3=y
-          CONFIG_PACKAGE_luci-app-uhttpd=y
-          CONFIG_PACKAGE_luci-app-softethervpn=y
-          CONFIG_PACKAGE_luci-app-docker=y
-          CONFIG_PACKAGE_luci-app-dockerman=y
-          CONFIG_PACKAGE_luci-app-diskman=y
-          CONFIG_PACKAGE_luci-app-netdata=y
-          CONFIG_PACKAGE_nano-full=y          
           CONFIG_PACKAGE_luci-theme-netgear=y
           EOF
 
