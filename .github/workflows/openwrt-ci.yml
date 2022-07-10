@@ -136,8 +136,6 @@ jobs:
           CONFIG_PACKAGE_luci-theme-netgear=y
           CONFIG_PACKAGE_luci-theme-atmaterial=y
           CONFIG_PACKAGE_luci-theme-rosy=y
-          CONFIG_PACKAGE_luci-app-koolproxyR=y
-          CONFIG_PACKAGE_luci-app-vssr=y
           EOF
 
           #
